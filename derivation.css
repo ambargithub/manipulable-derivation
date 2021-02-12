@@ -1,0 +1,119 @@
+
+/* Column 1*/
+
+#pg_header{
+    position: relative;
+    left: 320px;
+}
+#strpos-1{
+    position: relative;
+    left: 60px;
+    top: 10px;
+}
+
+
+#instr{
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+
+#pehla{
+    background-color: rgb(192, 241, 241); 
+    height: 400px;
+   
+ }
+
+ #slider-1{
+    position: relative;
+    top: 30px;
+    left: 120px;
+    width: 150px;
+}
+#slider-1 {
+    background:#e9828200;
+    border: 1px;
+}
+/* Column 2*/
+#strpos-2{
+    position: relative;
+    left: 60px;
+    top: 0px;
+}
+
+#duusra{
+    background-color: rgb(240, 241, 192); 
+    height: 400px;
+ }
+
+
+ /* Column 3*/
+
+ #teesra{
+    background-color: rgb(208, 241, 192); 
+    height: 400px;
+ }
+#zuu{
+    position: relative;
+    left: 0px;
+    top:  0x; 
+    z-index: 5;
+    width: 680px;
+    height: 600px;
+}
+ #zoom{
+    position: relative;
+    left: -206px;
+    top: -60px; 
+    z-index: 10;
+ }
+  #slider-2 { 
+    margin: auto;
+    -webkit-appearance: none;
+    position: relative;
+    top: -52px;
+    left: -2px;
+    align-items: center;
+    overflow: hidden;
+    height: 5px;
+    width: 53px;
+    cursor: col-resize;
+    border-radius: 0; 
+    
+}
+
+ #slider-2 {
+    background:#e98282;
+    border: 1px;
+}
+
+::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 4px; /* 1 */
+    height: 5px;
+    background:#6b7fdb;
+    box-shadow: 1px 0.5px  rgb(82, 83, 83);
+    /*box-shadow: -100vw 0 0 100vw rgb(207, 225, 243);*/
+    border: 1px solid #080808; 
+    border-radius: 7px;
+    
+}
+
+
+#col-4{
+    background-color: rgb(241, 203, 192); 
+    height: 400px;
+  
+ }
+
+ #col-5{
+    background-color: rgb(233, 192, 241); 
+    height: 400px;
+    
+ }
+
+ #col-6{
+    background-color: rgb(193, 192, 241); 
+    height: 400px;
+
+ }
